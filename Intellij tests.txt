@@ -1,0 +1,22 @@
+if(driver.getCurrentUrl().contains("www.com"));
+System.out.println("Welcome to the homepage");
+else
+System.out.println("Error, Webpage not found");
+
+
+String expectedUrl = "www.com";
+String actualUrl = "www.com";
+if(actualUrl.contains(expectedUrl));
+System.out.println("Welcome to the homepage");
+else
+System.out.println("Error, Webpage not found");
+
+
+
+
+
+https://selenium-blog.herokuapp.com/signup
+
+https://selenium-blog.herokuapp.com/users.11586
+
+https://selenium-blog.herokuapp.com/users/1
