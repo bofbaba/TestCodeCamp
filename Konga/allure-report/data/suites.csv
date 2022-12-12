@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 08 20:45:41 WAT 2022","Thu Dec 08 20:45:55 WAT 2022","14098","Default Suite","Konga","com.konga.KongaTest","com.konga.KongaTest","clickLogin","clickLogin",""
+"passed","Thu Dec 08 20:45:55 WAT 2022","Thu Dec 08 20:46:41 WAT 2022","46180","Default Suite","Konga","com.konga.KongaTest","com.konga.KongaTest","myAccount","myAccount",""
+"broken","Thu Dec 08 20:46:42 WAT 2022","Thu Dec 08 20:46:42 WAT 2022","54","Default Suite","Konga","com.konga.KongaTest","com.konga.KongaTest","logOut","logOut",""
+"broken","Thu Dec 08 20:46:42 WAT 2022","Thu Dec 08 20:46:42 WAT 2022","32","Default Suite","Konga","com.konga.KongaTest","com.konga.KongaTest","otherTests","otherTests",""
+"broken","Thu Dec 08 20:46:41 WAT 2022","Thu Dec 08 20:46:42 WAT 2022","1136","Default Suite","Konga","com.konga.KongaTest","com.konga.KongaTest","changePassword","changePassword",""
+"broken","Thu Dec 08 19:15:37 WAT 2022","Thu Dec 08 19:15:37 WAT 2022","5","Default Suite","Konga","com.konga.KongaTest","com.konga.KongaTest","launch","launch",""
